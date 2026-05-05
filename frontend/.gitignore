@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+backend/models/
+*.pkl
+__pycache__/
+*.pyc
+node_modules/
+.env
